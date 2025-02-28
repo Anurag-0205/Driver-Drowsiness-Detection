@@ -10,11 +10,8 @@ The Driver Drowsiness Detection project is a real-time system that monitors the 
 - Score-based system to track the driver's eye state over time.
 
 ## Requirements
-- Python 3.x
 - OpenCV
-- Keras
-- TensorFlow
-- NumPy
 - Pygame
 - imutils
 - scipy
+- dlib
